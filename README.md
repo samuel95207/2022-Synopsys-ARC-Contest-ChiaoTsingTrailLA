@@ -6,6 +6,10 @@
 * With ARC EM9D board’s ability to calculate Neural Network very fast, we can use image recognition on the robot without having to use a remote server to do calculations. With this powerful board, we can create our awesome Mask Supervise Robot!
 * We use the wifi chip on Raspberry Pi to control the robot remotely. 
 
+# Demo
+https://www.youtube.com/watch?v=bebB13EzUDo&t=9s
+
+
 # HW/SW Setup
 ![](https://i.imgur.com/j6L3zfO.png)
 
